@@ -23,8 +23,8 @@ Here are few profiles you may be interested to stalk
 </ul>
 </details>
 
-**If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)**  
-**Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)**
+If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
+Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)
 
 ![deuterium's github](https://github-readme-stats.vercel.app/api?username=deut-erium&show_icons=true&hide_border=true)
 
