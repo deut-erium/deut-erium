@@ -6,4 +6,7 @@
 - 📫 How to reach me: deuterium#1689
 - 😄 Pronouns: [recursion](https://github.com/deut-erium/)
 - ⚡ Fun fact: you had a good bad time
+
+![deuterium's github](https://github-readme-stats.vercel.app/api?username=deut-erium&show_icons=true&hide_border=true)
+
 <!-- flag{How_bored_does_one_need_to_be_to_actually_read_this_README} -->
