@@ -1,9 +1,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people with [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my [laptop](https://csea-iitb.github.io/IITBreachers-wiki/)?
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be [least helpful](https://github.com/deut-erium/hacking_tools)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deut-erium/)
@@ -21,6 +21,21 @@ Here are few profiles you may be interested to stalk
  <li> I have been learning recently on <a href="https://tryhackme.com/p/deuterium">TryHackMe</a> and its fun! </li>
  <li> Check out my Hacker Rank on <a href="https://www.wechall.net/profile/deuterium">WeChall</a> and other linked profiles there :wink: </li>
 </ul>
+</details>
+
+<details>
+ <summary> <b>I blog actively and make writeups </b> <i>(click to expand!)</i></summary>
+ <ul>
+  <li> Check out our <a href = "https://csea-iitb.github.io/IITBreachers-wiki/"> cybersecurity wiki </a> 
+   <br>
+   You might be interested in a few cool articles
+    <ul>
+     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2039/01/01/What-Are-CTFs.html"> What are CTFs?</a></li>
+     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html"> List of hacking sites</a></li>
+    </ul>
+  </li>
+  <li> Check out <a href="https://deut-erium.github.io/WriteUps/"> Writeups</a> for ctf challenges I recently participated in.</li>
+ </ul>
 </details>
 
 If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
