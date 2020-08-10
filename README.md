@@ -31,7 +31,7 @@ Here are few profiles you may be interested to stalk
    You might be interested in a few cool articles
     <ul>
      <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2039/01/01/What-Are-CTFs.html"> What are CTFs?</a></li>
-     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html"> List of hacking sites</a></li>
+     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/What-Are-CTFs.html"> List of hacking sites</a></li>
     </ul>
   </li>
   <li> Check out <a href="https://deut-erium.github.io/WriteUps/"> Writeups</a> for ctf challenges I recently participated in.</li>
