@@ -1,12 +1,12 @@
 
 <h1 align="center">नमस्ते</h1>
 
-$$\hspace{60em} \text{SHIT} \text{?}\hspace{10em}$$
+$$\hspace{62em} \text{SHIT} \hspace{50em} \text{I am warning you, dont scroll} \hspace{100em} \text{WTF??} \hspace{100em} \text{Are you jobless or just goverened by force of habit?} \hspace{10em}$$
 
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="20%" />
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="2%" /> I’m currently working on my [laptop](https://deut-erium.github.io/)?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="2%" /> I’m currently learning how to annoy people with number of [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="2%" /> I’m currently learning the art of finding words to conquer life 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="2%" /> I’m looking to collaborate on weird ideas that would be [least helpful](https://github.com/deut-erium/hacking_tools)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="2%" /> I’m looking for help with looking serious in README
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="2%" /> Ask me about why having wheels on laptop is a bad idea
@@ -18,7 +18,7 @@ $$\hspace{60em} \text{SHIT} \text{?}\hspace{10em}$$
 <br>
 Here are few profiles you may be interested to stalk
 <ul>
- <li> I play primarily under the team <a href="https://ctftime.org/team/116018">zh3r0</a> and <a href="https://ctftime.org/team/81901">zehrileLa(u)nde</a> when I feel lonely </li>
+ <li> I play primarily under the team <a href="https://ctftime.org/team/169557">Project Sekai</a> and <a href="https://ctftime.org/team/116018">zh3r0</a> when I feel lonely </li>
  <li> If you love cryptography, then try finding me on <a href="https://cryptohack.org/user/deuterium/">cryptohack</a> :heart: </li>
  <li> I write challenge <a href="https://deut-erium.github.io/WriteUps/">writeups</a> sometimes</li>
  <li> I am currently working on a ctf <a href="https://deut-erium.github.io/ctf-tutorials">tutorial</a></li>
@@ -32,7 +32,6 @@ Here are few profiles you may be interested to stalk
 If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
 Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)
 
-![deuterium's github](https://github-readme-stats.vercel.app/api?username=deut-erium&show_icons=true&hide_border=true)
 
 <p align="center">
  <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -44,5 +43,6 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
   <a href="https://deut-erium.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
 
+$$\hspace{62em} \text{HAPPENS} \hspace{50em} \text{Lets} \hspace{100em} \text{See} \hspace{100em} \text{if mathmode dies now} \hspace{10em}$$
 
 <!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README_well_a_lot_more_bored_than_me} -->
