@@ -1,13 +1,17 @@
 
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+<h1 align="center">नमस्ते</h1>
 
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my [laptop](https://csea-iitb.github.io/IITBreachers-wiki/)?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be [least helpful](https://github.com/deut-erium/hacking_tools)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deut-erium/)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time 
+$$\hspace{65em} \text{SHIT} \text{?}\hspace{10em}$$
+
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="20%" />
+
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="2%" /> I’m currently working on my [laptop](https://deut-erium.github.io/)?
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="2%" /> I’m currently learning how to annoy people with number of [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="2%" /> I’m looking to collaborate on weird ideas that would be [least helpful](https://github.com/deut-erium/hacking_tools)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="2%" /> I’m looking for help with looking serious in README
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="2%" /> Ask me about why having wheels on laptop is a bad idea
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="2%" /> Pronouns: [recursion](https://github.com/deut-erium/)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="2%" /> Fun fact: you had a good bad time 
 
 <details>
 <summary> <b>Jokes apart, I love participating in CTF contests</b> <i>(click to expand!)</i> </summary>
@@ -23,20 +27,7 @@ Here are few profiles you may be interested to stalk
 </ul>
 </details>
 
-<details>
- <summary> <b>I blog actively and make writeups </b> <i>(click to expand!)</i></summary>
- <ul>
-  <li> Check out our <a href = "https://csea-iitb.github.io/IITBreachers-wiki/"> cybersecurity wiki </a> 
-   <br>
-   You might be interested in a few cool articles
-    <ul>
-     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/What-Are-CTFs.html"> What are CTFs?</a></li>
-     <li> <a href="https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html"> List of hacking sites</a></li>
-    </ul>
-  </li>
-  <li> Check out <a href="https://deut-erium.github.io/WriteUps/"> Writeups</a> for ctf challenges I recently participated in.</li>
- </ul>
-</details>
+
 
 If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
 Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)
@@ -46,7 +37,7 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
 <p align="center">
  <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/deut-erium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sheoran/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="https://discord.com/users/deuterium#1689"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/0xdeuterium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
@@ -54,4 +45,4 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
 </p>
 
 
-<!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README} -->
+<!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README_well_a_lot_more_bored_than_me} -->
