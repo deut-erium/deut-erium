@@ -1,7 +1,7 @@
 
 <h1 align="center">नमस्ते</h1>
 
-$$\hspace{65em} \text{SHIT} \text{?}\hspace{10em}$$
+$$\hspace{60em} \text{SHIT} \text{?}\hspace{10em}$$
 
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="20%" />
 
