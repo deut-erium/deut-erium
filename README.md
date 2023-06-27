@@ -1,7 +1,6 @@
 
 <h1 align="center">नमस्ते</h1>
 
-$$\hspace{62em} \text{SHIT} \hspace{50em} \text{I am warning you, dont scroll} \hspace{100em} \text{WTF??} \hspace{100em} \text{Are you jobless or just goverened by force of habit?} \hspace{10em}$$
 
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="20%" />
 
@@ -42,7 +41,5 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
   <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
   <a href="https://deut-erium.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
-
-$$\hspace{62em} \text{HAPPENS} \hspace{50em} \text{Lets} \hspace{100em} \text{See} \hspace{100em} \text{if mathmode dies now} \hspace{10em}$$
 
 <!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README_well_a_lot_more_bored_than_me} -->
